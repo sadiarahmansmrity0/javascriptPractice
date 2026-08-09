@@ -63,7 +63,7 @@ This repository is organized logically by the three primary modules of the handb
   - [ ] Exercise 1: Academic entity state mapping using arrays and strings
   - [ ] Exercise 2: Object context encapsulation implementing localized state access (`this`)
   - [ ] Exercise 3: Single-line lexical assignment extraction (Destructuring parameters)
-  - [ ] Exercise 4: Array-of-Objects aggregation maps computing aggregate inventory levels
+  -  [ ] Exercise 4: Array-of-Objects aggregation maps computing aggregate inventory levels
   - [ ] Exercise 5: Object serialization roundtrip serialization/deserialization workflows (`JSON.stringify` / `JSON.parse`)
 
 ### 🟦 Part II: Modern JavaScript in Practice
